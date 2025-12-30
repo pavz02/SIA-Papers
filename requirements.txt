@@ -1,0 +1,15 @@
+imblearn
+# lightgbm - install using conda instead: conda install -c conda-forge lightgbm
+matplotlib
+nbformat
+numpy
+openpyxl
+pandas
+pingouin
+plotly
+scikit-learn
+scikit_posthocs
+scipy
+seaborn
+statsmodels
+xgboost
