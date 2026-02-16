@@ -1,5 +1,6 @@
 imblearn
 # lightgbm - install using conda instead: conda install -c conda-forge lightgbm
+kaleido
 matplotlib
 nbformat
 numpy
